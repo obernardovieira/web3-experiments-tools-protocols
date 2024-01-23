@@ -1,0 +1,8 @@
+[package]
+name = "circuits"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.22.0"
+
+[dependencies]
+noir_ml = { path = "./noir_ml" }
